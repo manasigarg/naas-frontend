@@ -1,0 +1,133 @@
+.App {
+    display: flex;
+    flex-direction: column;
+}
+
+.login {
+    height: 550px;
+    width: 30%;
+    margin-top: 80px;
+    margin-right: 150px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    background-color: lightskyblue;
+}
+
+.loginDiv {
+    height: 300px;
+    width: 450px;
+    margin: 20px 20px 20px 20px;
+}
+
+.loginPageHr {
+    margin: 40px 20px 40px;
+}
+
+.loginPageTextfield {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.loginPageButton {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nftButton {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.cardsButton {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sideBar {
+    margin: 20px 0px 20px;
+    float: left;
+    background-color: lightskyblue;
+    padding: 20px;
+    flex-grow: 25;
+}
+
+.pageContent {
+    margin: 20px 20px 20px 20px;
+    min-height: 750px;
+    flex-grow: 100;
+    display: flex;
+}
+
+.createNFTContainer {
+    margin: 20px 20px 20px 30px;
+    flex-grow: 75;
+}
+
+.mainContent {
+    margin: 20px 20px 20px 30px;
+    flex-grow: 75;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.label {
+    margin: 20px;
+    font-size: large;
+    text-align: center;
+}
+
+.btnGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.btnGroupItem {
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+}
+
+/*.App-logo {*/
+/*  height: 40vmin;*/
+/*  pointer-events: none;*/
+/*}*/
+
+/*@media (prefers-reduced-motion: no-preference) {*/
+/*  .App-logo {*/
+/*    animation: App-logo-spin infinite 20s linear;*/
+/*  }*/
+/*}*/
+
+.App-header {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    height: 90px;
+    background: dodgerblue;
+    color: white;
+    font-size: 20px;
+}
+
+/*.App-link {*/
+/*  color: #61dafb;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+/*  from {*/
+/*    transform: rotate(0deg);*/
+/*  }*/
+/*  to {*/
+/*    transform: rotate(360deg);*/
+/*  }*/
+/*}*/
