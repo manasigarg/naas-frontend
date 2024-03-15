@@ -1,4 +1,4 @@
-# NFT-as-a-service
+# NFT-as-a-Service (NaaS)
 
 This application provides an implementation for using NFT-as-a-service.
 This library can allow easy prottyping of NFT operations and applications.
